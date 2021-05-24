@@ -1,0 +1,8 @@
+npm install jquery popper.js
+import 'jquery';
+import '@popperjs/core'; // Edit here
+import 'bootstrap/dist/js/bootstrap.bundle';
+---------------------------------------------------
+yarn add bootstrap
+
+
